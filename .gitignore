@@ -1,0 +1,16 @@
+**/package-lock.json
+**/node_modules/
+
+.DS_Store
+.vscode/
+
+**.env
+**.log
+
+input/*
+output/*
+json/*
+
+!input/readme.md
+!output/readme.md
+!json/readme.md
